@@ -23,6 +23,6 @@ Which approved additional features have been implemented?
 1. Score
 2. Background Cloud Move
 3. Dynamic Difficulty: the lvl is increased every 5 scores. It is also indicated in the game.  
-4. 
+
 Play Instructions 
 (E stands for easy, N stands for normal, H stands for hard, EX stands for extreme) .
